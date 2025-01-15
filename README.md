@@ -1,6 +1,6 @@
 <p align="center">
   <a>
-    <img src="UP logo.png" alt="Logo" height="100">
+    <img src="logo.png" alt="Logo" height="100">
   </a>
 
 <h2 align="center">University of Prishtina : Faculty of Electrical and Computer Engineering</h2>
@@ -41,7 +41,7 @@ The CPU supports basic arithmetic and logical operations, including add, subtrac
 <p align="center"> ALU 16 bit diagram and functions
   <br>
 <a>
-    <img src="alu1bit.png" alt="ALU 16 bit" height="430" align="center">
+    <img src="alu16bit.png" alt="ALU 16 bit" height="430" align="center">
   </a>
   </p>
 <br><br>
