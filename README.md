@@ -41,7 +41,7 @@ The CPU supports basic arithmetic and logical operations, including add, subtrac
 <p align="center"> ALU 16 bit diagram and functions
   <br>
 <a>
-    <img src="alu16bit.png" alt="ALU 16 bit" height="430" align="center">
+    <img src="alu16bit.png" alt="ALU 16 bit" height="730" align="center">
   </a>
   </p>
 <br><br>
@@ -75,7 +75,7 @@ The CPU supports basic arithmetic and logical operations, including add, subtrac
 <p align="center"> Data path diagram
   <br>
 <a>
-    <img src="dataPath.png" alt="Data Path" height="430" align="center">
+    <img src="dataPath.png" alt="Data Path" height="580" align="center">
   </a>
   </p>
 <br><br>
