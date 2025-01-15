@@ -9,7 +9,7 @@
 <p align="left">Professor: Valon Raça</p>
 <p align="left">Assistant: Synim Selimi</p>
 
-<p align="left">Students: Edon Gashi</p>
+<p align="left">Student: Edon Gashi</p>
 
 
 ## Project summary
